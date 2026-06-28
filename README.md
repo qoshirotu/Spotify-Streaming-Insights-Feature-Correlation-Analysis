@@ -12,7 +12,7 @@ This project explores Spotify music streaming datasets using Python and data ana
 * Visualize streaming patterns and distributions
 * Generate data-driven insights from music datasets
 
-## Technologies Used
+## Library Used
 
 * Python
 * Pandas
